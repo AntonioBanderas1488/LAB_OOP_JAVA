@@ -1,3 +1,5 @@
+//ООП Лабораторна робота №2
+
 import java.util.Scanner;
 import java.lang.Math;
 
